@@ -1,0 +1,4 @@
+name: Training day
+type: module
+description: 'Example code for training day.'
+core: 8.x
